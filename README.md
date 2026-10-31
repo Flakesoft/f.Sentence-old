@@ -1,3 +1,5 @@
+### This repository is archived and outdated, thus is being preserved for historical purposes. New repo is available at https://github.com/Flakesoft/f.Sentence, where we switched over development to new frameworks and languages. This is not the end of f.Sentence, like in past, we are bringing the idea back to life with much more experience and passion. Huge thanks to everyone who has participated to this old repository, and we hope to see you on the new one!
+
 # f.Sentence
 
 <p align="center">
